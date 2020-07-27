@@ -1,10 +1,10 @@
 from PIL import Image
 import os
 
-base_folder = '/home/alix/Documents/pictures'
+base_folder = '/home/alix/Documents/pictures/2nd'
 dest_folder = '/home/alix/Documents/ML_data/drone_obstacle_detection/all_pictures'
 
-counter = 1000
+counter = 2000
 
 x = [0, 2000]
 y = [0, 1000]
